@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
+<urlset xmlns="http://sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kkmuchangiandcoadvocates.co.ke</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://kkmuchangiandcoadvocates.co.keabout</loc>
+    <loc>https://kkmuchangiandcoadvocates.co.ke/about</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kkmuchangiandcoadvocates.co.kepractice-areas</loc>
+    <loc>https://kkmuchangiandcoadvocates.co.ke/practice-areas</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kkmuchangiandcoadvocates.co.kefaqs</loc>
+    <loc>https://kkmuchangiandcoadvocates.co.ke/faqs</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kkmuchangiandcoadvocates.co.kecontact</loc>
+    <loc>https://kkmuchangiandcoadvocates.co.ke/contact</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kkmuchangiandcoadvocates.co.keprivacy</loc>
+    <loc>https://kkmuchangiandcoadvocates.co.ke/privacy</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
